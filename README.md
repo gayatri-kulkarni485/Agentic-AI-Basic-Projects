@@ -1,4 +1,4 @@
-# 🤖 Agentic AI & Chatbot Projects
+# Agentic AI & Chatbot Projects
 
 A collection of AI projects demonstrating the difference between a traditional **AI Chatbot** and an **Agentic AI system** capable of using specialized agents and external tools to perform tasks.
 
@@ -6,17 +6,17 @@ This project focuses on building practical AI applications using Python, Large L
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This repository contains two major AI applications:
 
-### 1. 💬 AI Chatbot
+### 1.  AI Chatbot
 
 The first project is a conversational AI chatbot designed to interact with users through natural language.
 
 The chatbot accepts user questions and generates responses using an AI language model. It demonstrates the basic working principle of a conversational AI system.
 
-### 2. 🧠 Agentic AI Multi-Agent System
+### 2.  Agentic AI Multi-Agent System
 
 The second project demonstrates an **Agentic AI architecture**.
 
@@ -33,7 +33,7 @@ The system contains multiple specialized agents.
 
 ---
 
-# 🏗️ Agent Architecture
+# Agent Architecture
 
 The Agentic AI system currently consists of two agents.
 
